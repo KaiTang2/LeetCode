@@ -5,7 +5,9 @@ cmake_minimum_required (VERSION 3.8)
 
 project ("LeetCodeProject")
 project ("Question1")
+project ("Question59")
 
 # 包含子项目。
 add_subdirectory ("LeetCodeProject")
 add_subdirectory ("Question1")
+add_subdirectory ("Question59")
