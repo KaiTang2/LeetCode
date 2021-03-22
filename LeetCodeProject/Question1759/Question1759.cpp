@@ -19,6 +19,16 @@ int countHomogenous(string s) {
     }
     res += (R - L) * (R - L + 1) / 2;
     res %= 1000000007;
+    /*while (R < n) {
+        if (s[R] != s[L]) {
+            L = R;
+        }
+        else {
+            res = (res + R - L + 1) % 1000000007;    //当前窗口宽度正好就是增加的子串数目
+            R++;
+        }
+
+    }*/
     return res;
 }
 int main()
