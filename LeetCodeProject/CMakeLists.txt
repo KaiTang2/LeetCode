@@ -19,6 +19,7 @@ project ("Question341")
 project ("Question398")
 project ("Question452")
 project ("Question1005")
+project ("Question1422")
 project ("Question1759")
 
 # inerview question
@@ -41,6 +42,7 @@ add_subdirectory ("Question341")
 add_subdirectory ("Question398")
 add_subdirectory ("Question452")
 add_subdirectory ("Question1005")
+add_subdirectory ("Question1422")
 add_subdirectory ("Question1759")
 
 
