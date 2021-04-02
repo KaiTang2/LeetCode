@@ -35,6 +35,7 @@ project ("Question1001-2000/Question1701-1800/Question1759")
 
 # inerview question
 project ("InterviewQuestion/0206")
+project ("InterviewQuestion/1721")
 
 # 包含子项目。
 add_subdirectory ("LeetCodeProject")
@@ -69,3 +70,4 @@ add_subdirectory ("Question1001-2000/Question1701-1800/Question1759")
 
 
 add_subdirectory ("InterviewQuestion/0206")
+add_subdirectory ("InterviewQuestion/1721")
