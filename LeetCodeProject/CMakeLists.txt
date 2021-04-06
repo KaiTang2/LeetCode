@@ -49,6 +49,7 @@ project ("Question1001-2000/Question1501-1600/Question1600")
 project ("Question1001-2000/Question1701-1800/Question1759")
 
 # inerview question
+project ("InterviewQuestion/0102")
 project ("InterviewQuestion/0206")
 project ("InterviewQuestion/1610")
 project ("InterviewQuestion/1721")
@@ -100,6 +101,7 @@ add_subdirectory ("Question1001-2000/Question1501-1600/Question1600")
 add_subdirectory ("Question1001-2000/Question1701-1800/Question1759")
 
 
+add_subdirectory ("InterviewQuestion/0102")
 add_subdirectory ("InterviewQuestion/0206")
 add_subdirectory ("InterviewQuestion/1610")
 add_subdirectory ("InterviewQuestion/1721")
