@@ -48,7 +48,9 @@ int minSubArrayLen(int target, vector<int>& nums) {
     {
         res = 0;
     }
-    return res; int main()
+    return res;
+}
+int main()
 {
     vector<int> nums = { 2,3,1,2,4,3 };
     cout << minSubArrayLen(7, nums) << endl;
